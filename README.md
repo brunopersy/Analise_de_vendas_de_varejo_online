@@ -5,6 +5,29 @@
 Este projeto tem como objetivo analisar um conjunto de dados de varejo online para obter insights sobre o comportamento dos clientes, padrões de compra e tendências de vendas. 
 
 Utilizaremos Python e bibliotecas como Pandas e Matplotlib para explorar, limpar, transformar e visualizar os dados. O objetivo final é extrair informações relevantes que possam auxiliar na tomada de decisões estratégicas para o negócio.
+Para isso vamos responder com dados 20 perguntas:
+
+1.	Qual é o valor total de vendas ao longo do período?
+2.	Quais são os produtos mais vendidos?
+3.	Quais são os países que geram mais receita?
+4.	Existe alguma sazonalidade nas vendas? (Ex: picos em datas comemorativas)
+5.	Como as vendas se distribuem ao longo dos dias da semana ou meses do ano?
+6.	Qual é o valor médio das compras por cliente?
+7.	Existe uma correlação entre a quantidade de produtos comprados e o valor total da compra?
+8.	Quais produtos são frequentemente comprados juntos?
+1.	Quantos clientes únicos existem no dataset?
+2.	Qual é a frequência de compra dos clientes?
+3.	Existe diferença no comportamento de compra entre clientes de diferentes países?
+4.	Quais clientes são os mais valiosos em termos de receita gerada?
+5.	É possível segmentar os clientes em grupos com base em seus padrões de compra?
+6.	Qual a taxa de retenção de clientes?
+1.	Quantos produtos diferentes são vendidos?
+2.	Qual é a distribuição de preços dos produtos?
+3.	Existem produtos que são frequentemente devolvidos?
+4.	Quais produtos geram mais lucro?
+5.	Existe alguma relação entre a descrição do produto e sua popularidade?
+6.  É possível prever as vendas futuras com base nos dados históricos?
+
 
 
 ## Dados
