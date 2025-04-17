@@ -2,3 +2,10 @@ pandas
 matplotlib
 ipython
 requests
+
+Como usar o requirements.txt:
+
+Criar o arquivo: Crie um arquivo chamado requirements.txt na raiz do seu projeto.
+Colar o conteúdo: Copie e cole as linhas acima no arquivo requirements.txt.
+Instalar as dependências: Execute o seguinte comando no seu terminal, dentro da pasta do projeto:
+      pip install -r requirements.txt
