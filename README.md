@@ -32,7 +32,7 @@ Para isso vamos responder com dados 20 perguntas:
 
 ## Dados
 
-Os dados utilizados neste projeto são provenientes do arquivo `online_retail.csv`. O conjunto de dados contém informações sobre transações de varejo online, incluindo:
+Os dados utilizados neste projeto são provenientes do arquivo `online_retail.csv`. O conjunto de dados contém informações sobre transações de varejo online:
 
 * **InvoiceNo:** Número da fatura.
 * **StockCode:** Código do produto.
@@ -52,7 +52,10 @@ Os dados utilizados neste projeto são provenientes do arquivo `online_retail.cs
     - Obter informações sobre os tipos de dados, valores ausentes e estatísticas descritivas usando os métodos `info()`, `isnull().sum()` e `describe()`.
 2. **Limpeza e Pré-processamento dos Dados:**
     - Tratar valores ausentes (se necessário).
+    - Tratar os dados da coluna "Description".
+    - Tratar dados faltantes da coluna "CustomersID".
     - Converter a coluna `InvoiceDate` para o tipo datetime.
+    - 
 3. **Análise Exploratória dos Dados:**
     - Investigar a distribuição das variáveis.
     - Identificar padrões e tendências nas vendas.
