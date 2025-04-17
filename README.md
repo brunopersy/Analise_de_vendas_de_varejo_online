@@ -62,4 +62,4 @@ Os dados utilizados neste projeto são provenientes do arquivo `online_retail.cs
 
 ## Resultados
 
-* [
+* Este projeto ainda está em desenvolvimento
